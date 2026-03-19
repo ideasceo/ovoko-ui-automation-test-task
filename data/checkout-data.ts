@@ -4,5 +4,5 @@ export const checkoutData = {
   lastName: 'User',
   street: 'Test street 1',
   city: 'Vilnius',
-  phone: '63199371',
+  phone: '61123456',
 };
